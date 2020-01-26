@@ -1,5 +1,4 @@
-learn submit
-learn submit# Introduction to Map and Reduce Lab
+Introduction to Map and Reduce Lab
 
 ## Learning Goals
 
